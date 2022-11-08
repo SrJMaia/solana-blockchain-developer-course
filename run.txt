@@ -1,0 +1,8 @@
+PATH="/home/oem/.local/share/solana/install/active_release/bin:$PATH"
+
+Token 1
+Address:  8bL2VDbvGrao6SQJty2nyRsyPewmic2FCbTxD2gqQL1m
+Decimals:  9
+Account: 7TiScSJbjfwTRvnBvjMjpC5gYqYELZk1oCkzrLba2AKC
+
+Signature: jN6KHFXqC1LMS5CXWX5RwL826JVuM5TTKRmFUqYPvvF833xU3ennhLM358FF6XQz3SMzLxxb5m4zPNpHDm6MbL4
